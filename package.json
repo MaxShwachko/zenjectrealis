@@ -1,5 +1,5 @@
 {
-  "name": "com.playdarium.zenject",
+  "name": "com.realis.zenject",
   "displayName": "Zenject",
   "description": "Zenject is a lightweight highly performant dependency injection framework built specifically to target Unity 3D (however it can be used outside of Unity as well).",
   "version": "9.2.0",
@@ -7,15 +7,15 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://gitlab.com/nazgull30/zenjectplaydarium.git"
+    "url": "https://github.com/MaxShwachko/zenjectrealis.git"
   },
   "author": {
-    "name": "playdarium",
-    "email": "playdarium@gmail.com",
-    "url": "https://playdarium.com"
+    "name": "realis",
+    "email": "tabureddd@gmail.com",
+    "url": ""
   },
   "dependencies": {
-    "com.playdarium.unirx": "https://gitlab.com/nazgull30/unirxplaydarium.git#upm"
+    "com.realis.unirx": "https://github.com/MaxShwachko/unirxrealis.git#upm"
   },
   "keywords": [
     "zenject",
